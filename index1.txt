@@ -1,4 +1,9 @@
 change1
 change12
 change13 from brach dev
+<<<<<<< HEAD
 change14 from brach dev
+=======
+change14 from brach dev
+This is a change to use git manually
+>>>>>>> 7114a90b10c64a0c7c2d57a54504b4f716d34e52
